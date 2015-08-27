@@ -1,0 +1,251 @@
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\ContosoUniversity.dll.config
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\ContosoUniversity.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\ContosoUniversity.pdb
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Antlr3.Runtime.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Newtonsoft.Json.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.Mvc.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Helpers.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Mvc.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Optimization.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Razor.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\WebGrease.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\PagedList.Mvc.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Helpers.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Mvc.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Optimization.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.Razor.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Newtonsoft.Json.xml
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\bin\Antlr3.Runtime.pdb
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+e:\Automation Course New\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+e:\Automation Course New\Samples\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+h:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+c:\CodedUITraining\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\DemoApps\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\DemoApps\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
