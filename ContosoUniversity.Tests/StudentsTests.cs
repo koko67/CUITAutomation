@@ -82,8 +82,12 @@ namespace ContosoUniversity.Tests
             //PersonPostCondition.DeletePerson(firstName,lastName);
         }
 
-        // FROM HERE STARTS THE PRACTICE
 
+
+
+        //****************************************
+        // FROM HERE STARTS THE PRACTICE
+        //****************************************
 
         [Description("Verify that an student can be found by Name")]
         [Priority(2)]

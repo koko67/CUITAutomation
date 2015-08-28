@@ -18,7 +18,24 @@ namespace ContosoUniversity.Framework
             PersonManager pm = new PersonManager();
             return pm.CreatePerson(firstName,
                             lastName,
+                            null,
                             enrollmentDate, 
+                            hireDate,
+                            discriminator);
+        }
+
+        public static bool CreatePerson2(string firstName,
+                                    string lastName,
+                                    string hireDate,
+                                    string officeLocation,
+                                    string enrollmentDate = null,
+                                    string discriminator = "Instructor")
+        {
+            PersonManager pm = new PersonManager();
+            return pm.CreatePerson(firstName,
+                            lastName,
+                            officeLocation,
+                            enrollmentDate,
                             hireDate,
                             discriminator);
         }

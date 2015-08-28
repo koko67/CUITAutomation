@@ -49,5 +49,34 @@ namespace ContosoUniversity.Tests
                 .VerifyInstructorWasCreated(fullName)
                 ;
         }
+
+        [TestMethod]
+        public void EditInstructor()
+        {
+            /*Variables*/
+            var lastName = "Proton";
+            var firstName = "Professor";
+            var hireDate = "2014/08/28";
+            var fullName = string.Format("{0} {1}", lastName, firstName);
+            var officeLocation = "far away";
+            Console.WriteLine(fullName);
+
+            //Pre condition
+            PersonPreCondition.CreatePerson2(firstName, lastName, hireDate, null);
+
+            /*TestCases*/
+            StartTest.HomePage
+                .SelectInstructorsOption()
+                .VerifyPageIsValid(Instructors.Title)
+                .ClickCreateInstructors()
+                .SetLastNameValue(lastName)
+                .SetFirstNameValue(firstName)
+                .SetHireDateValue(hireDate)
+                .SetOfficeLocationValue(officeLocation)
+                .CreateInstructor()
+                .VerifyInstructorWasCreated(fullName)
+                ;
+        }
+
     }
 }

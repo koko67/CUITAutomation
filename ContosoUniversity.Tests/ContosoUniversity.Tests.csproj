@@ -54,6 +54,7 @@
     <Compile Include="Base\BaseTest.cs" />
     <Compile Include="Base\BaseTestDB.cs" />
     <Compile Include="CodedUITest1.cs" />
+    <Compile Include="InstructorTestDB.cs" />
     <Compile Include="InstructorsTests.cs" />
     <Compile Include="StudentsTestDB.cs" />
     <Compile Include="StudentsTests.cs" />

@@ -10,6 +10,7 @@ namespace ContosoUniversity.DataAccessLayer.Business_Logic
     {
         public bool CreatePerson(string firstName,
                                  string lastName,
+                                 string officeLocation,
                                  string enrollmentDate,
                                  string hireDate,
                                  string discriminator)
@@ -19,12 +20,21 @@ namespace ContosoUniversity.DataAccessLayer.Business_Logic
                 Person person = new Person();
                 person.FirstName = firstName;
                 person.LastName = lastName;
-                person.EnrollmentDate = DateTime.Parse(enrollmentDate);
-                if (!string.IsNullOrEmpty(hireDate))
+                
+                if (string.IsNullOrEmpty(hireDate))
+                {
+                    person.EnrollmentDate = DateTime.Parse(enrollmentDate);
+                }
+                if (string.IsNullOrEmpty(enrollmentDate))
                 {
                     person.HireDate = DateTime.Parse(hireDate);
                 }
                 person.Discriminator = discriminator;
+                if (person.OfficeAssignment == null)
+                {
+                    person.OfficeAssignment = new OfficeAssignment();
+                    person.OfficeAssignment.Location = officeLocation;
+                }
 
                 var personAdded = dbContext.People.Add(person);
                 if (personAdded != null) //---
