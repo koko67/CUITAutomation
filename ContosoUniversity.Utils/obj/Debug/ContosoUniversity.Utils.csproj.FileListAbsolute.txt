@@ -2,7 +2,3 @@ C:\DemoApps\ContosoUniversity\ContosoUniversity.Utils\bin\Debug\ContosoUniversit
 C:\DemoApps\ContosoUniversity\ContosoUniversity.Utils\bin\Debug\ContosoUniversity.Utils.pdb
 C:\DemoApps\ContosoUniversity\ContosoUniversity.Utils\obj\Debug\ContosoUniversity.Utils.dll
 C:\DemoApps\ContosoUniversity\ContosoUniversity.Utils\obj\Debug\ContosoUniversity.Utils.pdb
-C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity.Utils\bin\Debug\ContosoUniversity.Utils.dll
-C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity.Utils\bin\Debug\ContosoUniversity.Utils.pdb
-C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity.Utils\obj\Debug\ContosoUniversity.Utils.dll
-C:\Users\jorgeavila\Documents\Visual Studio 2013\Projects\CUITAutomation\ContosoUniversity\ContosoUniversity.Utils\obj\Debug\ContosoUniversity.Utils.pdb

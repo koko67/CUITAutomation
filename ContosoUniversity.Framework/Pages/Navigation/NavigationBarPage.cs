@@ -26,6 +26,12 @@ namespace ContosoUniversity.Framework.Pages.Navigation
             return new HomePage();
         }
 
+        public InstructorsPage SelectInstructorsOption()
+        {
+            MenuSelector("Instructors");
+            return new InstructorsPage();
+        }
+
         private HtmlDiv _getMenuContainer;
 
         private void MenuSelector(string option)

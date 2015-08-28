@@ -54,13 +54,20 @@
     <Compile Include="Browser\BrowserManager.cs" />
     <Compile Include="Pages\Home\HomePage.cs" />
     <Compile Include="Pages\Navigation\NavigationBarPage.cs" />
+    <Compile Include="Pages\Students\CreateInstructorsPage.cs" />
     <Compile Include="Pages\Students\CreateStudentsPage.cs" />
     <Compile Include="Pages\Students\DeleteStudentPage.cs" />
     <Compile Include="Pages\Students\EditStudentPage.cs" />
+    <Compile Include="Pages\Students\InstructorsPage.cs" />
     <Compile Include="Pages\Students\StudentsPage.cs" />
     <Compile Include="PostCondition\PersonPostCondition.cs" />
     <Compile Include="PreCondition\PersonPreCondition.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResourceFiles\Instructors.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Instructors.resx</DependentUpon>
+    </Compile>
     <Compile Include="ResourceFiles\Students.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -83,6 +90,10 @@
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="ResourceFiles\Instructors.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Instructors.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="ResourceFiles\Students.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Students.Designer.cs</LastGenOutput>

@@ -8,10 +8,10 @@ namespace ContosoUniversity.DataAccessLayer.Business_Logic
 {
     public class PersonManager
     {
-        public bool CreatePerson(string firstName, 
-                                 string lastName, 
+        public bool CreatePerson(string firstName,
+                                 string lastName,
                                  string enrollmentDate,
-                                 string hireDate, 
+                                 string hireDate,
                                  string discriminator)
         {
             using (var dbContext = new ContosoUniversity2Entities())
